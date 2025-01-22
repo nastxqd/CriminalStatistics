@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4423e03-e742-44be-af3d-f70012a5a730" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/criminal3/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/criminal3/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/criminal3/Criminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/criminal3/Criminal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/criminal3/CriminalProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/criminal3/CriminalProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/criminal3/CriminalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/criminal3/CriminalService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/criminal3/SimpleGraphGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/criminal3/SimpleGraphGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/criminal.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/criminal.ftlh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rTtCbiqJrOprl0EnvTZezSYvSb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Анастасия/IdeaProjects/criminal3",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.44458762"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Анастасия\IdeaProjects\criminal3\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.criminal3.Criminal3Application" />
+      <module name="criminal3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4423e03-e742-44be-af3d-f70012a5a730" name="Changes" comment="" />
+      <created>1736594765760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736594765760</updated>
+    </task>
+    <task id="LOCAL-00001" summary="стартуем">
+      <option name="closed" value="true" />
+      <created>1736600786731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736600786732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="стартуем2">
+      <option name="closed" value="true" />
+      <created>1736837878387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736837878387</updated>
+    </task>
+    <task id="LOCAL-00003" summary="выводит регионы уникально">
+      <option name="closed" value="true" />
+      <created>1737033788172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737033788172</updated>
+    </task>
+    <task id="LOCAL-00004" summary="по айди выбирает все записи">
+      <option name="closed" value="true" />
+      <created>1737039416898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737039416898</updated>
+    </task>
+    <task id="LOCAL-00005" summary="график для центральной">
+      <option name="closed" value="true" />
+      <created>1737043096935</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737043096935</updated>
+    </task>
+    <task id="LOCAL-00006" summary="график для центральной">
+      <option name="closed" value="true" />
+      <created>1737212039535</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737212039535</updated>
+    </task>
+    <task id="LOCAL-00007" summary="выводится график!!!!">
+      <option name="closed" value="true" />
+      <created>1737219772931</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737219772931</updated>
+    </task>
+    <task id="LOCAL-00008" summary="выводятся 2 графика регионы уникальные">
+      <option name="closed" value="true" />
+      <created>1737221544982</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737221544982</updated>
+    </task>
+    <task id="LOCAL-00009" summary="выводятся 2 графика регионы уникальные">
+      <option name="closed" value="true" />
+      <created>1737221562255</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737221562255</updated>
+    </task>
+    <task id="LOCAL-00010" summary="готовоооооооооооооооо">
+      <option name="closed" value="true" />
+      <created>1737303857167</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737303857167</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="стартуем" />
+    <MESSAGE value="стартуем2" />
+    <MESSAGE value="выводит регионы уникально" />
+    <MESSAGE value="по айди выбирает все записи" />
+    <MESSAGE value="график для центральной" />
+    <MESSAGE value="выводится график!!!!" />
+    <MESSAGE value="выводятся 2 графика регионы уникальные" />
+    <MESSAGE value="готовоооооооооооооооо" />
+    <option name="LAST_COMMIT_MESSAGE" value="готовоооооооооооооооо" />
+  </component>
+</project>
